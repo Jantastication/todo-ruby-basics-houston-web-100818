@@ -6,7 +6,7 @@ def assign_variable(value = "name")
   "#{value}"
 end
 
-def argue("I am right and you are wrong!")
+def argue(phrase = "I am right and you are wrong!")
 puts "I am right and you are wrong!"
 end
 
